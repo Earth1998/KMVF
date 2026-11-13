@@ -4,6 +4,9 @@
 ### Installing
 
 Create a new conda enviorment
+```
+conda env create -f env.yml
+```
 
 ### Datasets
 

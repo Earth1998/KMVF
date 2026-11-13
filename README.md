@@ -6,6 +6,7 @@
 Create a new conda enviorment
 ```
 conda env create -f env.yml
+conda activate gear_mcl
 ```
 
 ### Datasets
